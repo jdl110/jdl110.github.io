@@ -2,7 +2,7 @@ body
 {
     background-color: #00ffff;
 }
-#wrapper
+#wrapper, #mine
 {
     margin: 0 auto;
     width:  80%;
@@ -28,7 +28,7 @@ a:hover
 {
     text-decoration: underline overline;
 }
-h1 
+h1, h2, h3, h4, h5
 {
     font-size: 3em;
     font-family: 'Arial', 'Helvetica', 'Sans-Serif';
