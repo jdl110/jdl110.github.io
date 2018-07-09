@@ -2,7 +2,7 @@ body
 {
     background-color: #00ffff;
 }
-#wrapper, #mine
+#wrapper
 {
     margin: 0 auto;
     width:  80%;
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5
 p 
 {
     font-size: 1em;
-    line-height: 1.4em;
+    line-height: 1em;
     color: #333;
 }
 footer 
